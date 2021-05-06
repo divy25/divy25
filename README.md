@@ -1,5 +1,7 @@
 ### Hi there, I'm Divya Prakash 👋
-
+<br/>
+<a href="https://www.linkedin.com/in/divy25/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
 
 ## In short, Tech Enthusiast with passion for Web Development!
 
@@ -10,10 +12,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divy25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 <br/>
 
 [website]: https://divy25.github.io/myPortfolio/
-[linkedin]: https://www.linkedin.com/in/divy25/
