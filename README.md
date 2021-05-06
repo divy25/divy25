@@ -22,12 +22,11 @@
  <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/nodejs%20-%23e34f26.svg?&style=for-the-badge&logo=nodejs&logoColor=white" />
  <img src="https://img.shields.io/badge/Git%20-%23e34f26.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+ 
   
  </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divy25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divy25&theme=tokyonight"  height="200px"/>
 
 
 <p align = "center">
