@@ -8,7 +8,7 @@
 ## In short, Tech Enthusiast with passion for Web Development!
 
 - 🔭 I’m currently working on MERN Stack.
-- 👯 I’m looking to collaborate with other developers in community.
+-    I’m looking to collaborate with other developers in community.
 - 📫 How to reach me: divy_prakash@outlook.com.
 
 
